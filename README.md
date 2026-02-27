@@ -7,6 +7,12 @@
 
 # Índice
 
+- [Descripción del proyecto](#descripción-del-proyecto)
+- [Estructuras implementadas](#estructuras-implementadas)
+  - [Clase Queue](#clase-queue)
+  - [Clase Graph](#clase-graph)
+- [Pruebas realizadas](#pruebas-realizadas)
+- [Conclusión](#conclusión)
 ---
 
 # Descripción del proyecto
